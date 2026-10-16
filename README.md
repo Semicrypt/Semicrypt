@@ -1,4 +1,4 @@
-# Hey, I'm Ifeanyi Divine Nwachukwu 👋
+# Nwachukwu Ifeanyi Divine 
 
 **Cloud & DevOps Engineer | Software Engineer | Infrastructure Automation | Building Production-Ready Systems**
 
